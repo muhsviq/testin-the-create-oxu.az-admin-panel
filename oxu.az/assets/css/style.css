@@ -1,0 +1,11 @@
+.brand-logo img{
+	width: 120px;
+}
+
+nav{
+	background-image: url('../imgs/bg1.png');
+}
+
+#add-news{
+	width: 100% !important;
+}
